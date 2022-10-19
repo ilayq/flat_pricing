@@ -1,0 +1,7 @@
+notebook
+jupyterlab
+pandas
+matplotlib
+geopy
+scikit-learn
+numpy
